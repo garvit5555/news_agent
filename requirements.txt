@@ -1,0 +1,9 @@
+langchain>=0.1.8
+langchain-anthropic>=0.1.8
+langchain-community>=0.0.27
+langchain-core>=0.1.24
+langchain-openai>=0.1.0
+tavily-python>=0.2.8
+anthropic>=0.15.0
+openrouter>=0.3.0
+python-dotenv>=1.0.1 
